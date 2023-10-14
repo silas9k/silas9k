@@ -7,16 +7,8 @@
     <!--    replace with cdn address-->
     <link rel="stylesheet" href="https://andybrewer.github.io/mvp/mvp.css">
 
-    <meta charset="utf-8">
-    <!--    keywords-->
-    <meta name="keywords" content="visitor count,visitor track,badge, markdown, github, free">
-    <!--    description-->
-    <meta name="description"
-          content="Visitor badge for markdown file, put it in your GitHub README.md to know how many uses visited your repo! For Free!">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Visitor Badge</title>
-    <script data-ad-client="ca-pub-1796190311458057" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    Hello I am # ✗ Silas ✗ and i am a Java Developer and learning Mobile Developement
+    
 </head>
 
 <body>
@@ -141,7 +133,7 @@
 <footer>
     <hr>
     <p>
-        Made by <a href="https://github.com/hehuapei" target="_blank">wiken</a> and ❤️
+        Made by <a href="https://dsc.gg/machor" target="_blank">✗ Silas ✗ !</a>
     </p>
 </footer>
 </body>
