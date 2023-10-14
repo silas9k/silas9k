@@ -20,16 +20,13 @@
             </svg>
         </a>
         <ul>
-            <li>Home</li>
-            <li><a href="#">Docs</a></li>
-            <li><a href="https://github.com/hehuapei/visitor-badge" target="_blank">GitHub &nearr;</a></li>
         </ul>
     </nav>
-    <h1>Count visitors for your <i>README.md, Issues, PRs</i> in <u>GitHub</u></h1>
+    <h1>Join my Discord Server ^^</h1>
+![Discord](https://img.shields.io/discord/1153383158461501570?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=gray&color=%23c0c0c0%09&link=https%3A%2F%2Fdsc.gg%2Fmachor)
     <p>in just <mark>one line markdown code</mark></p>
     <p><img src="https://visitor-badge.laobi.icu/badge?page_id=visitor-badge.laobi.icu"></p>
     <br>
-    <p><a href="https://github.com/hehuapei/visitor-badge"><i>💗 Give a Star 💗</i></a><a href="#docs"><b>Getting started</b></a></p>
 </header>
 <main>
     <hr>
