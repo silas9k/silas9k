@@ -12,7 +12,7 @@ Ich bin Silas, und bin Java-Entwickler. Außerdem lerne ich gerade Mobile-Entwic
 ## 🔧 Meine Schwerpunkte
 
 - Java-Entwicklung
-- Mobile Entwicklung: Ich lerne derzeit Mobile App-Entwicklung.
+- Ich lerne derzeit Mobile App-Entwicklung.
 - Webentwicklung: HTML, CSS, JavaScript
 
 ## 📚 Aktuelle Lernziele
@@ -22,7 +22,7 @@ Ich bin Silas, und bin Java-Entwickler. Außerdem lerne ich gerade Mobile-Entwic
 
 ## 📫 Kontakt
 
-Du kannst mich auf [Discord](https://twitter.com/your-twitter-handle) kontaktieren. Schick mir gerne eine Nachricht, wenn du Fragen hast oder einfach plaudern möchtest.
+Du kannst mich auf [Discord](https://dsc.gg/machor) kontaktieren. Schick mir gerne eine Nachricht, wenn du Fragen hast oder so.
 
 ## 🚀 Coole Projekte
 
