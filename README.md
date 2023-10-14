@@ -24,10 +24,6 @@ Hallo, ich bin Silas, und bin ein Java-Entwickler und lerne zur zeit noch Mobile
 
 Du kannst mich auf [Discord](https://twitter.com/your-twitter-handle)  kontaktieren. Schick mir gerne eine Nachricht, wenn du Fragen hast oder so.
 
-## GitHub-Statistiken
-
-[![Meine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=dein-benutzername)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Cooles zeug
 
 > cool 
