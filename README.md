@@ -26,6 +26,6 @@ Ich bin Silas, und bin Java-Entwickler. Außerdem lerne ich gerade Mobile-Entwic
 
 Du kannst mich auf [Discord](https://dsc.gg/machor) kontaktieren. Schick mir gerne eine Nachricht, wenn du Fragen hast oder so.
 
-## 🚀 Coole Projekte
+## 🚀 Cooles Zeug
 
-> Hier kannst du etwas über die aufregenden Projekte erfahren, an denen ich arbeite oder gearbeitet habe.
+> Cool...
