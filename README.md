@@ -4,7 +4,7 @@
 
 ## Über mich
 
-Ich bin Silas, ein leidenschaftlicher Java-Entwickler, der sich gerade in die Welt der mobilen App-Entwicklung vertieft.
+Ich bin Silas, und bin Java-Entwickler. Außerdem lerne ich gerade Mobile-Entwicklung!
 
 [![LinkedIn](https://your-linkedin-image-link.png)](https://www.linkedin.com/in/your-linkedin-profile)
 [![GitHub](https://your-github-image-link.png)](https://github.com/your-github-profile)
