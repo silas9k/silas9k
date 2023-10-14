@@ -2,8 +2,7 @@
 <html lang="en">
 
 <head>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👀</text></svg>">
-    <link rel="stylesheet" href="https://andybrewer.github.io/mvp/mvp.css">
+     <link rel="shortcut icon" href="https://media.discordapp.net/attachments/1104480171274285140/1156954280717197412/sY6ivWBVFfntFBe47dNq920lRbXhpE0o_1.png?ex=6516d923&is=651587a3&hm=4acfa3f40f6889cea6f2aaba2c41abc49ff4f55073873643e5d5886415427ef8&=&width=450&height=450" type="image/webp">
 </head>
 
 <body>
