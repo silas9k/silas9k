@@ -6,7 +6,7 @@
 
 Ich bin Silas, und bin Java-Entwickler. Außerdem lerne ich gerade Mobile-Entwicklung!
 
-[![LinkedIn](https://your-linkedin-image-link.png)](https://www.linkedin.com/in/your-linkedin-profile)
+![Discord](https://img.shields.io/discord/1153383158461501570?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=gray&color=%23c0c0c0%09&link=https%3A%2F%2Fdsc.gg%2Fmachor)
 [![GitHub](https://your-github-image-link.png)](https://github.com/your-github-profile)
 
 ## 🔧 Meine Schwerpunkte
