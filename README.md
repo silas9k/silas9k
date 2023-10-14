@@ -1,11 +1,8 @@
-<!-- Dein Name -->
 # ✗ Silas ✗
 
-<!-- Eine kurze Beschreibung über dich -->
-Hallo, ich bin Silas, ein leidenschaftlicher Java-Entwickler und Mobile-Entwickler in der Mache.
+Hallo, ich bin Silas, und bin ein Java-Entwickler und lerne zur zeit noch Mobile-Entwicklung.
 
-<!-- Ein cooles Bild, das auf deinen Discord-Server oder Social-Media-Profile verlinkt -->
-[![Twitter](https://your-twitter-image-link.png)](https://twitter.com/your-twitter-handle)
+[![Discord](https://cdn.discordapp.com/attachments/1104480171274285140/1156954280717197412/sY6ivWBVFfntFBe47dNq920lRbXhpE0o_1.png?ex=653a71a3&is=6527fca3&hm=9904ee0b4923210fda2a82f34e644fcc3b314cc579a7f110785bfc23a54ad9b5&)](https://twitter.com/your-twitter-handle)
 [![LinkedIn](https://your-linkedin-image-link.png)](https://www.linkedin.com/in/your-linkedin-profile)
 [![GitHub](https://your-github-image-link.png)](https://github.com/your-github-profile)
 
