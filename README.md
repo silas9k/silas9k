@@ -8,8 +8,6 @@ Ich bin Silas, und bin Java-Entwickler. Außerdem lerne ich gerade Mobile-Entwic
 
 ![Discord](https://img.shields.io/discord/1153383158461501570?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=gray&color=%23c0c0c0%09&link=https%3A%2F%2Fdsc.gg%2Fmachor)
 
-![Website](https://img.shields.io/website?up_message=%20&down_message=Website&down_color=white&url=https%3A%2F%2Fbio.link%2Fmachor&style=for-the-basge&logo=website&logoColor=white&label=Website&labelColor=Gray&color=%23c0c0c0%09)
-
 
 ## 🔧 Meine Schwerpunkte
 
