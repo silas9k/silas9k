@@ -19,7 +19,7 @@ Ich bin Silas, und bin Java-Developer.
 
 Du kannst mich auf Discord kontaktieren. Schick mir gerne eine Nachricht, wenn du Fragen hast oder so.
 
-![image](https://github.com/SilasDornbusch/SilasDornbusch/assets/144553383/395c4426-738b-450d-920d-ed8879107f25)
+![image](https://github.com/SilasDornbusch/SilasDornbusch/assets/144553383/e33123ec-6b25-4304-9eca-3e990ac7eea6)
 
 
 
