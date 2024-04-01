@@ -17,7 +17,11 @@ Ich bin Silas, und bin Java-Developer.
 
 ## 📫 Kontakt
 
-Du kannst mich auf [Discord](https://dsc.gg/machor) kontaktieren. Schick mir gerne eine Nachricht, wenn du Fragen hast oder so.
+Du kannst mich auf Discord kontaktieren. Schick mir gerne eine Nachricht, wenn du Fragen hast oder so.
+
+![image](https://github.com/SilasDornbusch/SilasDornbusch/assets/144553383/395c4426-738b-450d-920d-ed8879107f25)
+
+
 
 ## 🚀 Cooles Zeug
 
