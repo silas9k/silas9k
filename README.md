@@ -9,9 +9,9 @@ Ich bin Silas, und bin Java-Developer.
 ## 📚 Aktuelle Projekte
 
 - GOAT Services (Admin/Dev)
-- Minecraft Plugins, welche ich verkaufe
-- Minecraft Client
+- Minecraft Plugins
 - Discord Bots
+- Websites
 
 ## 📫 Kontakt
 
