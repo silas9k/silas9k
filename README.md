@@ -6,8 +6,8 @@
 
 Ich bin Silas, und bin JavaScript Backend Developer.
 
-[https://img.shields.io/discord/1130541298881941636?style=for-the-badge&link=https%3A%2F%2Fgoat-services.de
-](https://github.com/SilasDornbusch/SilasDornbusch/edit/main/README.md)
+https://img.shields.io/discord/:serverId?logo=discord&logoColor=white&label=Discord&color=blue
+
 
 ## 📚 Aktuelle Projekte
 
