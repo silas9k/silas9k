@@ -6,9 +6,6 @@
 
 Ich bin Silas, und bin JavaScript Backend Developer.
 
-[![Discord](https://img.shields.io/discord/1130541298881941636?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://goat-services.de/discord)
-
-
 ![](https://github-readme-stats.vercel.app/api?username=SilasDornbusch&show_icons=true&theme=dracula)
 
 
