@@ -4,7 +4,10 @@
 
 ## Über mich
 
-Ich bin Silas, und bin Java-Developer.
+Ich bin Silas, und bin JavaScript Backend Developer.
+
+https://img.shields.io/discord/1130541298881941636?style=for-the-badge&link=https%3A%2F%2Fgoat-services.de
+
 
 ## 📚 Aktuelle Projekte
 
