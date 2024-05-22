@@ -6,9 +6,8 @@
 
 Ich bin Silas, und bin JavaScript Backend Developer.
 
-[https://img.shields.io/discord/:serverId?logo=discord&logoColor=white&label=Discord&color=blue
-](https://img.shields.io/discord/1130541298881941636?logo=discord&logoColor=white&label=Discord&color=blue
-)
+[![Discord](https://img.shields.io/discord/1130541298881941636?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://goat-services.de/discord)
+
 
 ## 📚 Aktuelle Projekte
 
