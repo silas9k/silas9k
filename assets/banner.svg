@@ -1,0 +1,47 @@
+<svg width="854" height="150" viewBox="0 0 854 150" xmlns="http://www.w3.org/2000/svg" style="position:relative; z-index:1;">
+  <defs>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#238636"/>
+    </linearGradient>
+    <style>
+      .text {
+        font-size: 48px;
+        font-weight: 700;
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+        fill: white;
+      }
+      .wave {
+        animation: subtleWave 10s ease-in-out infinite;
+      }
+      @keyframes subtleWave {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(2px); }
+        100% { transform: translateY(0px); }
+      }
+    </style>
+  </defs>
+
+  <g class="wave">
+    <path fill="url(#greenGradient)" opacity="0.4">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        keyTimes="0;0.5;1"
+        values="
+        M0 0L 0 60Q 213.5 100 427 80T 854 120L 854 0 Z;
+        M0 0L 0 65Q 213.5 105 427 85T 854 125L 854 0 Z;
+        M0 0L 0 60Q 213.5 100 427 80T 854 120L 854 0 Z;">
+      </animate>
+    </path>
+    <path fill="url(#greenGradient)" opacity="0.4">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" begin="-5s"
+        keyTimes="0;0.5;1"
+        values="
+        M0 0L 0 80Q 213.5 120 427 95T 854 115L 854 0 Z;
+        M0 0L 0 85Q 213.5 125 427 100T 854 120L 854 0 Z;
+        M0 0L 0 80Q 213.5 120 427 95T 854 115L 854 0 Z;">
+      </animate>
+    </path>
+  </g>
+
+  <text text-anchor="middle" x="50%" y="50%" dominant-baseline="middle" class="text" style="fill:#96AE99;" >Silas D.</text> 
+</svg>
