@@ -5,22 +5,22 @@
 <h2 align="center">Hey, I'm Silas 👋</h2>
 
 <p align="center">
-  Founder of <strong>Blåerr Labs</strong> — building tools for developers and creators.
+  Founder of <strong>s9lab</strong> — coming soon
   <br />
-  <em>Coding ideas into products.</em>
+  <em>coming soon</em>
 </p>
 
 ---
 
-## 🚀 Blåerr Labs
+## 🚀 s9lab
 
 <table>
   <tr>
-    <td><img src="./assets/1bl_logo.png" width="48" alt="Blåerr Labs" /></td>
+    <td><img src="./assets/logo.png" width="48" alt="s9lab" /></td>
     <td>
       <strong>Founder & Developer</strong><br />
-      <em>Blåerr Labs</em><br />
-      Small Dev-Studio building useful, minimalistic apps & tools.
+      <em>s9lab</em><br />
+      coming soon...
     </td>
   </tr>
 </table>
