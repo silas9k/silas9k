@@ -19,7 +19,7 @@
     <td><img src="./assets/logo.png" width="48" alt="s9lab" /></td>
     <td>
       <strong>Founder & Developer</strong><br />
-      <em>s9lab</em><br />
+      <em>SNine</em><br />
       coming soon...
     </td>
   </tr>
