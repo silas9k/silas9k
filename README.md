@@ -4,9 +4,7 @@
 
 <h2 align="center">Hey, I'm Silas 👋</h2>
 
----
-
-## 🚀 s9lab
+## 🚀 SNine Studios
 
 <table>
   <tr>
