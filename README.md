@@ -4,12 +4,6 @@
 
 <h2 align="center">Hey, I'm Silas 👋</h2>
 
-<p align="center">
-  Founder of <strong>s9lab</strong> — coming soon
-  <br />
-  <em>coming soon</em>
-</p>
-
 ---
 
 ## 🚀 s9lab
